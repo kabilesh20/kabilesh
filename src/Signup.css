@@ -1,0 +1,46 @@
+.sign-form{
+    margin-left: 40%;
+    margin-top: 20px;
+    width: 300px;
+    height: 400px;
+    border-radius: 1%;
+    padding: 1%;
+    color: #d7c49eff;
+    background-color:#343148ff;
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    font-family: cursive;
+    position:relative;
+}
+label{
+    padding: 3%;
+    color:black;
+    font-size: larger;
+    font-family: cursive;
+    color: #d7c49eff;
+}
+input{
+    border-radius: 10px;
+    border-color: #E69A8DFF;
+    width: 250px;
+    height: 30px;
+    font-family: cursive;
+    color:#d7c49eff;
+}
+button{
+    padding: 2%;
+    border-radius: 10px;
+    width: 75px;
+    height: 30px;
+    font-family: cursive;
+    color:#d7c49eff;
+
+}
+button:hover:not(.active){
+    padding: 2%;
+    border-radius: 10px;
+    width: 75px;
+    height: 30px;
+    background-color: rgb(220, 169, 29);
+    font-family: cursive;
+    color: #d7c49eff;
+}

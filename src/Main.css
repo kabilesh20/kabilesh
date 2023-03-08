@@ -1,0 +1,64 @@
+.sign-form{
+    margin-left: 40%;
+    margin-top: 20px;
+    width: 300px;
+    height: 700px;
+    border-radius: 1%;
+    padding: 2%;
+    color: #d7c49eff;
+    background-color:rgba(0, 0, 0, 0.604);
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+    font-family: cursive;
+    position:relative;
+}
+label{
+    padding: 3%;
+    color:black;
+    font-size: larger;
+    font-family: cursive;
+    color: #d7c49eff;
+}
+input{
+    border-radius: 5px;
+    border-color: #E69A8DFF;
+    width: 250px;
+    height: 30px;
+    font-family: cursive;
+    color:#d7c49eff;
+}
+button{
+    padding: 2%;
+    border-radius: 5px;
+    width: 75px;
+    height: 30px;
+    font-family: cursive;
+    color:#d7c49eff;
+
+}
+button:hover:not(.active){
+    padding: 2%;
+    border-radius: 5px;
+    width: 75px;
+    height: 30px;
+    background-color: rgb(220, 169, 29);
+    font-family: cursive;
+    color: #d7c49eff;
+}
+.login-button1{
+    padding: 2%;
+    border-radius: 5px;
+    width: 175px;
+    height: 30px;
+    font-family: cursive;
+    color:#d7c49eff;
+
+}
+.login-button1:hover:not(.active){
+    padding: 2%;
+    border-radius: 5px;
+    width: 175px;
+    height: 30px;
+    background-color: rgb(220, 169, 29);
+    font-family: cursive;
+    color: #d7c49eff;
+}
